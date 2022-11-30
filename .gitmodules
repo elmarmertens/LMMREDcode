@@ -1,0 +1,3 @@
+[submodule "matlabbox"]
+	path = matlabbox
+	url = https://github.com/elmarmertens/em-matlabbox
