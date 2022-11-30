@@ -2,6 +2,7 @@
 
 Review of Economic Dynamics (in press): [https://doi.org/10.1016/j.red.2022.09.003](https://doi.org/10.1016/j.red.2022.09.003)
 
+The materials provided do not necessarily reflect the views of the Federal Reserve Bank of Richmond, the Federal Reserve System, the Deutsche Bundesbank, or the Eurosystem.
 
 All codes were executed using Matlab R2022b on a Windows 10 desktop. The files listed below can be run in any order. We use the default Matlab random number generator. The seed is set at the top of each file using the rng command. For the equilibrium specific impulse responses (figures 4 and 9) the seed matters - the specific plots produced by the corresponding figures should therefore be thought of as illustrative only.
 
